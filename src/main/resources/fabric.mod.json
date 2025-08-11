@@ -52,8 +52,7 @@
   },
   "breaks": {
     "optifabric": "*",
-    "feather": "*",
-    "origins": "*",
+  "origins": "*",
     "sodium": "<0.6.12",
     "morechathistory": "*"
   }
